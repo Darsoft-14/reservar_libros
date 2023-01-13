@@ -1,0 +1,46 @@
+.imgbibli{
+    max-width: 180px;
+    border-radius: 30px;
+}
+.user{
+    margin: 0 auto;
+    max-width: 400px;
+}
+.img_user{
+    max-height: 120px;
+}
+
+.reserve {
+    color: black;
+}
+.cancelar{
+    color: black;
+}
+.card-text{
+    text-align: justify;
+}
+.title_reserve{
+    font-size: 23px;
+    text-align: center;
+}
+#delete_reserve h3{
+    font-size: 19px;
+    text-align: center;
+}
+
+.img_danger{
+    max-width: 80px;
+}
+
+#reserve input[type="number"]{
+    font-size: 14px;
+    max-width: 67px;
+    max-height: 37px;
+    border-radius: 4px;
+}
+
+#category{
+    font-size: 14px;
+    border-radius: 4px;
+    max-height: 37px;
+}
